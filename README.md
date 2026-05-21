@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/b37245b9-5c12-43ed-b198-c08aba61bf0a" />
+
 
 <!--
 **rydbyte/rydbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
